@@ -18,3 +18,8 @@ The Aquarium API is also required to communicate with the Aquarium data base.
 To add the required modules, from a CLI pointing to the module directory:
 
             pip install -r requirements.txt
+            
+            
+ ## Credit
+- [MenhirFX](https://menhirfx.com/fr)
+- [Aquarium API and MeshQL](https://docs.fatfish.app/dev/python/index.html)
